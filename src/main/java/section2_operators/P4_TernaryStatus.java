@@ -1,4 +1,4 @@
-package section2_Operators;
+package section2_operators;
 
 public class P4_TernaryStatus {
     public static void main(String[] args) {

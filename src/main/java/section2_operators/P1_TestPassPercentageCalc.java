@@ -1,4 +1,4 @@
-package section2_Operators;
+package section2_operators;
 
 public class P1_TestPassPercentageCalc {
     public static void main(String[] args) {
